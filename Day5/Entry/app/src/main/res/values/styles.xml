@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#6BB4EE</item>
+        <item name="colorPrimaryDark">#6BB4EE</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MyTheme" parent="AppTheme">
+        <item name="android:windowBackground">@drawable/bg6</item>
+        <item name="colorPrimaryDark">#000</item>
+        <item name="android:gravity">center</item>
+
+    </style>
+
+
+
+</resources>
