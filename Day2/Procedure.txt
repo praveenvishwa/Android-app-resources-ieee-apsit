@@ -1,0 +1,6 @@
+Procedure to implement Scrollview:
+
+Copy and replace the code in your xml file and inside the 
+Relative layout or Constraint layout strart adding different items 
+as your need,the view will strect dynamically as end of screen is
+reached
