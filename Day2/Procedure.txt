@@ -1,6 +1,15 @@
 Procedure to implement Scrollview:
 
-Copy and replace the code in your xml file and inside the 
-Relative layout or Constraint layout strart adding different items 
+Copy the code from any of the scrollview.txt file and replace  inside the 
+xml file of your app and inside the brackets of Relative layout or Constraint layout 
+strart adding different items 
 as your need,the view will strect dynamically as end of screen is
-reached
+reached.
+
+Changing Buttons through an external file:
+
+In the skillingyou app the shape of button is changed
+by applying the background of button to that external xml file
+
+Also click on about us page to see a new screen and you can see the 
+code to shift between activities in .kt file
